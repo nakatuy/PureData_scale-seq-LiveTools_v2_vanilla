@@ -1,0 +1,17 @@
+#N canvas 928 23 324 507 10;
+#X obj 3 0 ./synth/J-synth-poli/J-synth-no1;
+#X obj 3 142 ./synth/J-synth-poli/J-synth-no2;
+#X obj 3 284 ./synth/J-synth-poli/J-synth-no3;
+#X obj 3 426 ./synth/J-synth-poli/J-synth-no4;
+#X obj 3 568 ./synth/J-synth-poli/J-synth-no5;
+#X obj 3 710 ./synth/J-synth-poli/J-synth-no6;
+#X obj 3 852 ./synth/J-synth-poli/J-synth-no7;
+#X obj 3 994 ./synth/J-synth-poli/J-synth-no8;
+#X obj 3 1136 ./synth/J-synth-poli/J-synth-no9;
+#X obj 3 1278 ./synth/J-synth-poli/J-synth-no10;
+#X obj 3 1420 ./synth/J-synth-poli/J-synth-no11;
+#X obj 3 1562 ./synth/J-synth-poli/J-synth-no12;
+#X obj 3 1704 ./synth/J-synth-poli/J-synth-no13;
+#X obj 3 1844 ./synth/J-synth-poli/J-synth-no14;
+#X obj 3 1986 ./synth/J-synth-poli/J-synth-no15;
+#X obj 3 2128 ./synth/J-synth-poli/J-synth-no16;
