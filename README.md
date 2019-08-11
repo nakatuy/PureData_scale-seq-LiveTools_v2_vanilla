@@ -1,3 +1,4 @@
+<img src="./_ScreenShot.png" width="100%">
 # PureData scale seq LiveTools ver2 vanilla
 Generative music production tool created with the visual programming environment "PureData"
 
