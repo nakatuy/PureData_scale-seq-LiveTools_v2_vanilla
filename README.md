@@ -31,6 +31,8 @@ The patch is roughly organized as follows.
     <li> Extension library: check the following </ li>
 </ul>
 
+<img border="0" src="https://github.com/nakatuy/PureData_scale-seq-LiveTools_v2_vanilla/blob/master/set-up/SS2.png" width="80%">
+
 <a href="https://blog.creative-plus.net/archives/7695" target="_blank"> Extension library setup using deken (Japanese) </a>
 
 ## How to use
